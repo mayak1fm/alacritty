@@ -44,7 +44,7 @@ normal                = { family = "JetbrainsMono Nerd Font", style = "Regular" 
 bold                  = { family = "JetbrainsMono Nerd Font", style = "Bold" }
 italic                = { family = "JetbrainsMono Nerd Font", style = "Italic" }
 bold_italic           = { family = "JetbrainsMono Nerd Font", style = "Bold Italic" }
-#size                  = 11.25
+size                  = 22.50
 offset                = { x = 0, y = 0 }
 glyph_offset          = { x = 0, y = 0 }
 #builtin_box_drawing   = true
