@@ -7,9 +7,9 @@
 #"~/.config/alacritty/keybindings.toml",
 #]
 
-[terminal.shell]
-program               = "/usr/bin/zsh"
-args                  = [ "--login", ]
+#[terminal.shell]
+#program               = "/usr/bin/zsh"
+#args                  = [ "--login", ]
 
 #working_directory     = "None"
 #live_config_reload    = true
@@ -26,7 +26,7 @@ padding               = { x = 2, y = 2 }
 decorations           = "None"
 opacity               = 1.0
 blur                  = true
-#startup_mode          = "Windowed"
+startup_mode          = "Fullscreen"
 #title                 = "Alacritty"
 #dynamic_title         = true
 #class                 = { instance = "Alacritty", general = "Alacritty" }
